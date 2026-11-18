@@ -40,6 +40,7 @@
 <!-- versions: tools/release.mjs adds a row under the table header, newest first -->
 | 版本 | 日期 | 在线玩 | 下载 | 内容 |
 |---|---|---|---|---|
+| **v1** | 2026-11-18 | [打开](https://link1412.github.io/voyager/v1/) | [voyager-v1.html](https://github.com/link1412/voyager/releases/download/v1/voyager-v1.html) | 第一个能从头玩到尾的版本:从太空飞向一颗星球,降落,出舱步行,再起飞,跃迁到别的星系。 |
 
 每个版本的详细说明在 [Releases](https://github.com/link1412/voyager/releases)。
 
